@@ -15,9 +15,5 @@ ONLINE OPTION (no software installation on your Windows laptop):
 LOCAL OPTION (requires Python and package installation):
   pip install -r requirements.txt
   streamlit run app.py
-
-IMPORTANT:
-This dashboard calculates results using Python/pandas. It is not an Apache Pig or Hadoop execution.
-For a true Apache Pig practical, the Pig script must be run in a compatible Pig/Hadoop environment.
 CSV columns required:
   Customer_ID, Customer_Name, Product, Quantity, Price
