@@ -145,8 +145,4 @@ B.Tech – Computer Science and Engineering (Data Science)
 
 Madanapalle Institute of Technology and Science (MITS)
 
----
 
-⭐ **If you find this project interesting, consider giving this repository a star!**
-
-*Turning Customer Data into Smarter Business Decisions.*
