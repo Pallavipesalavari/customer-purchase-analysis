@@ -1,0 +1,9 @@
+Customer_ID,Customer_Name,Product,Quantity,Price
+101,Ravi,Laptop,1,50000
+102,Pallavi,Mobile,2,15000
+103,Suresh,Headphones,1,2000
+101,Ravi,Mouse,2,500
+102,Pallavi,Laptop,1,50000
+104,Anil,Mobile,1,15000
+103,Suresh,Keyboard,1,1500
+101,Ravi,Headphones,2,2000
